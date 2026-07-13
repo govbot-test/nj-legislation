@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for nj
+========================================
+
+Total bills:                 7661
+Processed:                   7661
+Successful:                  2401
+Errors:                      4
+Skipped (already processed): 5256

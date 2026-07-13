@@ -1,0 +1,12 @@
+{
+  "bill_id": "A3461",
+  "error_type": "download",
+  "error_message": "Failed to download content from text/html",
+  "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3461_I1.HTM",
+  "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/A3461/metadata.json",
+  "timestamp": "2026-07-13T12:23:16.374800",
+  "additional_info": {
+    "media_type": "text/html",
+    "item_note": "Introduced Version"
+  }
+}

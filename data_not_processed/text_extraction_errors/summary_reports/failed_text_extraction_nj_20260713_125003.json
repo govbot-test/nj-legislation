@@ -1,0 +1,62 @@
+{
+  "state": "nj",
+  "timestamp": "2026-07-13T12:50:03.166976",
+  "summary": {
+    "total_failed": 4,
+    "failed_downloads": 4,
+    "failed_parsing": 0,
+    "failed_saves": 0
+  },
+  "failed_downloads": [
+    {
+      "bill_id": "A2911",
+      "error_type": "download",
+      "error_message": "Failed to download content from text/html",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/A3000/2911_I1.HTM",
+      "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/A2911/metadata.json",
+      "timestamp": "2026-07-13T11:32:58.978220",
+      "additional_info": {
+        "media_type": "text/html",
+        "item_note": "Introduced Version"
+      }
+    },
+    {
+      "bill_id": "SCR55",
+      "error_type": "download",
+      "error_message": "Failed to download content from text/html",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/55_I1.HTM",
+      "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/SCR55/metadata.json",
+      "timestamp": "2026-07-13T11:33:12.755690",
+      "additional_info": {
+        "media_type": "text/html",
+        "item_note": "Introduced Version"
+      }
+    },
+    {
+      "bill_id": "A3236",
+      "error_type": "download",
+      "error_message": "Failed to download content from text/html",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3236_I1.HTM",
+      "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/A3236/metadata.json",
+      "timestamp": "2026-07-13T11:33:25.082483",
+      "additional_info": {
+        "media_type": "text/html",
+        "item_note": "Introduced Version"
+      }
+    },
+    {
+      "bill_id": "A3461",
+      "error_type": "download",
+      "error_message": "Failed to download content from text/html",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3461_I1.HTM",
+      "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/A3461/metadata.json",
+      "timestamp": "2026-07-13T12:23:16.374800",
+      "additional_info": {
+        "media_type": "text/html",
+        "item_note": "Introduced Version"
+      }
+    }
+  ],
+  "failed_parsing": [],
+  "failed_saves": []
+}
