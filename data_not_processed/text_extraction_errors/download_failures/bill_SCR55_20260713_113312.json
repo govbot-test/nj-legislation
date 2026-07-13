@@ -1,0 +1,12 @@
+{
+  "bill_id": "SCR55",
+  "error_type": "download",
+  "error_message": "Failed to download content from text/html",
+  "url": "https://pub.njleg.state.nj.us/Bills/2026/SCR/55_I1.HTM",
+  "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/SCR55/metadata.json",
+  "timestamp": "2026-07-13T11:33:12.755690",
+  "additional_info": {
+    "media_type": "text/html",
+    "item_note": "Introduced Version"
+  }
+}

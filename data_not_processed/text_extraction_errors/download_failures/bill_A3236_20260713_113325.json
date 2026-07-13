@@ -1,0 +1,12 @@
+{
+  "bill_id": "A3236",
+  "error_type": "download",
+  "error_message": "Failed to download content from text/html",
+  "url": "https://pub.njleg.state.nj.us/Bills/2026/A3500/3236_I1.HTM",
+  "metadata_file": "/home/runner/work/nj-legislation/nj-legislation/country:us/state:nj/sessions/222/bills/A3236/metadata.json",
+  "timestamp": "2026-07-13T11:33:25.082483",
+  "additional_info": {
+    "media_type": "text/html",
+    "item_note": "Introduced Version"
+  }
+}
