@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583625ea-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A804",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kanitra, Paul",
+      "voter_id": "~{\"name\": \"Kanitra, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barlas, Al",
+      "voter_id": "~{\"name\": \"Barlas, Al\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Egan, Kevin P.",
+      "voter_id": "~{\"name\": \"Egan, Kevin P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeAngelo, Wayne P.",
+      "voter_id": "~{\"name\": \"DeAngelo, Wayne P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karabinchak, Robert J.",
+      "voter_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katz, Andrea",
+      "voter_id": "~{\"name\": \"Katz, Andrea\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walker, Jerry",
+      "voter_id": "~{\"name\": \"Walker, Jerry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spearman, William W.",
+      "voter_id": "~{\"name\": \"Spearman, William W.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sauickie, Alex",
+      "voter_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bailey, David",
+      "voter_id": "~{\"name\": \"Bailey, David\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A804_lower_Reported_out_of_Assembly_committee_with_amendments_ATU"
+}

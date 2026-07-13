@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-16T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "5857c394-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S229",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Amato, Carmen F.",
+      "voter_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singer, Robert W.",
+      "voter_id": "~{\"name\": \"Singer, Robert W.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cryan, Joseph P.",
+      "voter_id": "~{\"name\": \"Cryan, Joseph P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zwicker, Andrew",
+      "voter_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moriarty, Paul D.",
+      "voter_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S229_upper_Reported_favorably_out_of_committee_SHI"
+}

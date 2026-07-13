@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-14T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "58361168-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A794",
+  "votes": [
+    {
+      "option": "other",
+      "voter_name": "Flynn, Victoria A.",
+      "voter_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brennan, Katie",
+      "voter_id": "~{\"name\": \"Brennan, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quijano, Annette",
+      "voter_id": "~{\"name\": \"Quijano, Annette\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Clifton, Robert D.",
+      "voter_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lopez, Yvonne",
+      "voter_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moen, William F.",
+      "voter_id": "~{\"name\": \"Moen, William F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley, Sterley S.",
+      "voter_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A794_lower_Reported_out_of_Assembly_committee_with_amendments_AHO"
+}

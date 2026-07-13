@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-19T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "5850b432-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "AJR93",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Moen, William F.",
+      "voter_id": "~{\"name\": \"Moen, William F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClellan, Antwan L.",
+      "voter_id": "~{\"name\": \"McClellan, Antwan L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley, Sterley S.",
+      "voter_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guardian, Donald A.",
+      "voter_id": "~{\"name\": \"Guardian, Donald A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bailey, David",
+      "voter_id": "~{\"name\": \"Bailey, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Venezia, Michael",
+      "voter_id": "~{\"name\": \"Venezia, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rowan, Maureen",
+      "voter_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "AJR93_lower_Reported_favorably_out_of_committee_ATG"
+}

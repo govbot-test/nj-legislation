@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-11T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583f2ab4-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A1950",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Azzariti Jr., John V.",
+      "voter_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rowan, Maureen",
+      "voter_id": "~{\"name\": \"Rowan, Maureen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angelozzi, Anthony",
+      "voter_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kearney, Vincent M.",
+      "voter_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sweeney, Marisa",
+      "voter_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart, Kenyatta",
+      "voter_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rumpf, Brian E.",
+      "voter_id": "~{\"name\": \"Rumpf, Brian E.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Peterson, Erik",
+      "voter_id": "~{\"name\": \"Peterson, Erik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murphy, Carol A.",
+      "voter_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tully, Chris",
+      "voter_id": "~{\"name\": \"Tully, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Donlon, Margie",
+      "voter_id": "~{\"name\": \"Donlon, Margie\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Rodriguez, Gabriel",
+      "voter_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A1950_lower_Reported_out_of_Assembly_committee_with_amendments_AHE"
+}

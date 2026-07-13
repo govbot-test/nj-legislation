@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-05T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "585fb752-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S1253",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Zwicker, Andrew",
+      "voter_id": "~{\"name\": \"Zwicker, Andrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steinhardt, Douglas J.",
+      "voter_id": "~{\"name\": \"Steinhardt, Douglas J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moriarty, Paul D.",
+      "voter_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polistina, Vincent J.",
+      "voter_id": "~{\"name\": \"Polistina, Vincent J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Gordon M.",
+      "voter_id": "~{\"name\": \"Johnson, Gordon M.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S1253_upper_Reported_favorably_out_of_committee_SLA"
+}

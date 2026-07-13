@@ -1,0 +1,51 @@
+{
+  "legislative_session": "222",
+  "identifier": "S3210",
+  "title": "Exempts honorably discharged veterans from payment of municipal parking meter fees when vehicle bears honorably discharged veteran's placard issued by MVC.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "MUNICIPALITI",
+    "VETERANS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nj-222-s3210"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Corrado, Kristin M.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://pub.njleg.state.nj.us/leg-databases/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nj/government",
+    "name": "New Jersey",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nj"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:29Z"
+  }
+}

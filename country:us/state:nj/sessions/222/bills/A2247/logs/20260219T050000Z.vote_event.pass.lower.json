@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-19T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584174fe-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2247",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tucker, Cleopatra G.",
+      "voter_id": "~{\"name\": \"Tucker, Cleopatra G.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Speight, Shanique",
+      "voter_id": "~{\"name\": \"Speight, Shanique\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterpaul, Luanne M.",
+      "voter_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fantasia, Dawn",
+      "voter_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Azzariti Jr., John V.",
+      "voter_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wainstein, Larry",
+      "voter_id": "~{\"name\": \"Wainstein, Larry\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2247_lower_Reported_out_of_Assembly_committee_with_amendments_AHU"
+}

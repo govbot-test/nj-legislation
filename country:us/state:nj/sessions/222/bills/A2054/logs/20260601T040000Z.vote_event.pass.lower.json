@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-01T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583ff8b8-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2054",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Speight, Shanique",
+      "voter_id": "~{\"name\": \"Speight, Shanique\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carter, Linda S.",
+      "voter_id": "~{\"name\": \"Carter, Linda S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simmons, Heather",
+      "voter_id": "~{\"name\": \"Simmons, Heather\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterpaul, Luanne M.",
+      "voter_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fantasia, Dawn",
+      "voter_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Azzariti Jr., John V.",
+      "voter_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2054_lower_Reported_favorably_out_of_committee_AHU"
+}

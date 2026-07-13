@@ -1,0 +1,57 @@
+{
+  "legislative_session": "222",
+  "identifier": "S3277",
+  "title": "Requires food manufacturers to disclose new food additives not reported to FDA.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "FOOD",
+    "PUB SAFETY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nj-222-s3277"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Testa, Michael L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "A 3069",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://pub.njleg.state.nj.us/leg-databases/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nj/government",
+    "name": "New Jersey",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nj"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:27Z"
+  }
+}

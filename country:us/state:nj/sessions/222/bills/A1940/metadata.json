@@ -1,0 +1,212 @@
+{
+  "legislative_session": "222",
+  "identifier": "A1940",
+  "title": "Requires ingredients of menstrual products to be listed on package.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CONSUMER AFF",
+    "HEALTH",
+    "WOMEN"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nj-222-a1940"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced in the Assembly, Referred to Assembly Community Development and Women's Affairs Committee",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:29Z"
+      }
+    },
+    {
+      "description": "WITHDRAWN APP P.L.2025, c.232.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:06:29Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Quijano, Annette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Quijano, Annette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reynolds-Jackson, Verlina",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Swain, Lisa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swain, Lisa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Speight, Shanique",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Speight, Shanique\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murphy, Carol A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haider, Shama A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stanley, Sterley S.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pintor Marin, Eliana",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pintor Marin, Eliana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sampson, William B.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sampson, William B.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Park, Ellen J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez, Yvonne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodriguez, Gabriel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morales, Carmen Theresa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peterpaul, Luanne M.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bagolie, Rosaura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced Version",
+      "links": [
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1940_I1.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://pub.njleg.state.nj.us/Bills/2026/A2000/1940_I1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1940",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A1940",
+      "note": ""
+    },
+    {
+      "url": "https://pub.njleg.state.nj.us/leg-databases/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nj/government",
+    "name": "New Jersey",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nj"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:29Z"
+  }
+}

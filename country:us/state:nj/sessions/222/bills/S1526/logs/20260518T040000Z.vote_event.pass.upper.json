@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-18T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "5861cfa6-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S1526",
+  "votes": [
+    {
+      "option": "other",
+      "voter_name": "Henry, Owen",
+      "voter_id": "~{\"name\": \"Henry, Owen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKnight, Angela V.",
+      "voter_id": "~{\"name\": \"McKnight, Angela V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greenstein, Linda R.",
+      "voter_id": "~{\"name\": \"Greenstein, Linda R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moriarty, Paul D.",
+      "voter_id": "~{\"name\": \"Moriarty, Paul D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tiver, Latham",
+      "voter_id": "~{\"name\": \"Tiver, Latham\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S1526_upper_Reported_favorably_out_of_committee_SLP"
+}

@@ -1,0 +1,57 @@
+{
+  "legislative_session": "222",
+  "identifier": "SR58",
+  "title": "Directs AG to repeal and amend certain provisions of directive restricting law enforcement cooperation with federal immigration authorities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "IMMIGRATION",
+    "POLICE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-nj-222-sr58"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Testa, Michael L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "AR 18",
+      "legislative_session": "222",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://pub.njleg.state.nj.us/leg-databases/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nj/government",
+    "name": "New Jersey",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nj"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:06:30Z"
+  }
+}

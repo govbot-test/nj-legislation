@@ -1,0 +1,72 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-16T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583ff156-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2050",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Murphy, Carol A.",
+      "voter_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Myhre, Gregory E.",
+      "voter_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Kanitra, Paul",
+      "voter_id": "~{\"name\": \"Kanitra, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Collazos-Gill, Alixon",
+      "voter_id": "~{\"name\": \"Collazos-Gill, Alixon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bhalla, Ravi S.",
+      "voter_id": "~{\"name\": \"Bhalla, Ravi S.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2050_lower_Reported_out_of_Assembly_committee_with_amendments_ACF"
+}

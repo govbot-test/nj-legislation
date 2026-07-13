@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-19T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583a2636-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A1310",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Quijano, Annette",
+      "voter_id": "~{\"name\": \"Quijano, Annette\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Kean, Sean T.",
+      "voter_id": "~{\"name\": \"Kean, Sean T.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Clifton, Robert D.",
+      "voter_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Sampson, William B.",
+      "voter_id": "~{\"name\": \"Sampson, William B.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morales, Carmen Theresa",
+      "voter_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Onyema, Chigozie U.",
+      "voter_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brennan, Katie",
+      "voter_id": "~{\"name\": \"Brennan, Katie\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A1310_lower_Reported_out_of_Assembly_committee_with_amendments_ACO"
+}

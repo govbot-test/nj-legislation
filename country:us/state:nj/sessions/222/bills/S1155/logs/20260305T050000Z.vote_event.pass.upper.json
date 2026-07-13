@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-05T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "585eee6c-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S1155",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Schepisi, Holly T.",
+      "voter_id": "~{\"name\": \"Schepisi, Holly T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amato, Carmen F.",
+      "voter_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wimberly, Benjie E.",
+      "voter_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stack, Brian P.",
+      "voter_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singleton, Troy",
+      "voter_id": "~{\"name\": \"Singleton, Troy\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S1155_upper_Reported_favorably_out_of_committee_SCU"
+}

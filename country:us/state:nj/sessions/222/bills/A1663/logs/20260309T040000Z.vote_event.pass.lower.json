@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-09T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583ce862-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A1663",
+  "votes": [
+    {
+      "option": "other",
+      "voter_name": "Tully, Chris",
+      "voter_id": "~{\"name\": \"Tully, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Verrelli, Anthony S.",
+      "voter_id": "~{\"name\": \"Verrelli, Anthony S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Donlon, Margie",
+      "voter_id": "~{\"name\": \"Donlon, Margie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angelozzi, Anthony",
+      "voter_id": "~{\"name\": \"Angelozzi, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sweeney, Marisa",
+      "voter_id": "~{\"name\": \"Sweeney, Marisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart, Kenyatta",
+      "voter_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Rumpf, Brian E.",
+      "voter_id": "~{\"name\": \"Rumpf, Brian E.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Peterson, Erik",
+      "voter_id": "~{\"name\": \"Peterson, Erik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murphy, Carol A.",
+      "voter_id": "~{\"name\": \"Murphy, Carol A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rodriguez, Gabriel",
+      "voter_id": "~{\"name\": \"Rodriguez, Gabriel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Azzariti Jr., John V.",
+      "voter_id": "~{\"name\": \"Azzariti Jr., John V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abdelaziz, Al",
+      "voter_id": "~{\"name\": \"Abdelaziz, Al\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A1663_lower_Reported_out_of_Assembly_committee_with_amendments_AHE"
+}

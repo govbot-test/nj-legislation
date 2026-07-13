@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584026da-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2078",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kearney, Vincent M.",
+      "voter_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Onyema, Chigozie U.",
+      "voter_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Peterson, Erik",
+      "voter_id": "~{\"name\": \"Peterson, Erik\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spearman, William W.",
+      "voter_id": "~{\"name\": \"Spearman, William W.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bergen, Brian",
+      "voter_id": "~{\"name\": \"Bergen, Brian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haider, Shama A.",
+      "voter_id": "~{\"name\": \"Haider, Shama A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bagolie, Rosaura",
+      "voter_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2078_lower_Reported_favorably_out_of_committee_ACE"
+}

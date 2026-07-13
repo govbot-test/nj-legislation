@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-08T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584f3bd4-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A4007",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Flynn, Victoria A.",
+      "voter_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brennan, Katie",
+      "voter_id": "~{\"name\": \"Brennan, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quijano, Annette",
+      "voter_id": "~{\"name\": \"Quijano, Annette\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clifton, Robert D.",
+      "voter_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lopez, Yvonne",
+      "voter_id": "~{\"name\": \"Lopez, Yvonne\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reynolds-Jackson, Verlina",
+      "voter_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley, Sterley S.",
+      "voter_id": "~{\"name\": \"Stanley, Sterley S.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A4007_lower_Reported_out_of_Assembly_committee_with_amendments_AHO"
+}

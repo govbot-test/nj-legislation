@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Senate committee as a substitute",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-19T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "586d0be6-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S2996",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Corrado, Kristin M.",
+      "voter_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gopal, Vin",
+      "voter_id": "~{\"name\": \"Gopal, Vin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lagana, Joseph A.",
+      "voter_id": "~{\"name\": \"Lagana, Joseph A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Testa, Michael L.",
+      "voter_id": "~{\"name\": \"Testa, Michael L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith, Bob",
+      "voter_id": "~{\"name\": \"Smith, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bramnick, Jon M.",
+      "voter_id": "~{\"name\": \"Bramnick, Jon M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burgess, Renee C.",
+      "voter_id": "~{\"name\": \"Burgess, Renee C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Henry, Owen",
+      "voter_id": "~{\"name\": \"Henry, Owen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKeon, John F.",
+      "voter_id": "~{\"name\": \"McKeon, John F.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Sarlo, Paul A.",
+      "voter_id": "~{\"name\": \"Sarlo, Paul A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stack, Brian P.",
+      "voter_id": "~{\"name\": \"Stack, Brian P.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S2996_upper_Reported_out_of_Senate_committee_as_a_substitute_SJU"
+}

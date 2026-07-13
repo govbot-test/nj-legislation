@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-21T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "586b7768-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S2786",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Polistina, Vincent J.",
+      "voter_id": "~{\"name\": \"Polistina, Vincent J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKeon, John F.",
+      "voter_id": "~{\"name\": \"McKeon, John F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner, Shirley K.",
+      "voter_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beach, James",
+      "voter_id": "~{\"name\": \"Beach, James\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Holzapfel, James W.",
+      "voter_id": "~{\"name\": \"Holzapfel, James W.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S2786_upper_Reported_favorably_out_of_committee_SSG"
+}

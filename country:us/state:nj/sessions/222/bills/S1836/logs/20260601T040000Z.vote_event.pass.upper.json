@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Senate committee as a substitute",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-01T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "586437aa-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S1836",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Wimberly, Benjie E.",
+      "voter_id": "~{\"name\": \"Wimberly, Benjie E.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singleton, Troy",
+      "voter_id": "~{\"name\": \"Singleton, Troy\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Schepisi, Holly T.",
+      "voter_id": "~{\"name\": \"Schepisi, Holly T.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Amato, Carmen F.",
+      "voter_id": "~{\"name\": \"Amato, Carmen F.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mukherji, Raj",
+      "voter_id": "~{\"name\": \"Mukherji, Raj\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S1836_upper_Reported_out_of_Senate_committee_as_a_substitute_SCU"
+}

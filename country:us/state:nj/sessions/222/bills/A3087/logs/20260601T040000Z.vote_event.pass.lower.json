@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-01T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584806ca-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A3087",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Macurdy, Andrew",
+      "voter_id": "~{\"name\": \"Macurdy, Andrew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McGuckin, Gregory P.",
+      "voter_id": "~{\"name\": \"McGuckin, Gregory P.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "DePhillips, Christopher P.",
+      "voter_id": "~{\"name\": \"DePhillips, Christopher P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tully, Chris",
+      "voter_id": "~{\"name\": \"Tully, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Morales, Carmen Theresa",
+      "voter_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singh, Balvir",
+      "voter_id": "~{\"name\": \"Singh, Balvir\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rodriguez, Ed",
+      "voter_id": "~{\"name\": \"Rodriguez, Ed\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A3087_lower_Reported_favorably_out_of_committee_AST"
+}

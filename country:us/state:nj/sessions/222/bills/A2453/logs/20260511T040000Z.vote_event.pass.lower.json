@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-11T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "58431322-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2453",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Drulis, Mitchelle",
+      "voter_id": "~{\"name\": \"Drulis, Mitchelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kearney, Vincent M.",
+      "voter_id": "~{\"name\": \"Kearney, Vincent M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karabinchak, Robert J.",
+      "voter_id": "~{\"name\": \"Karabinchak, Robert J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Swain, Lisa",
+      "voter_id": "~{\"name\": \"Swain, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simonsen, Erik K.",
+      "voter_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sauickie, Alex",
+      "voter_id": "~{\"name\": \"Sauickie, Alex\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller, Cody D.",
+      "voter_id": "~{\"name\": \"Miller, Cody D.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2453_lower_Reported_favorably_out_of_committee_ASL"
+}

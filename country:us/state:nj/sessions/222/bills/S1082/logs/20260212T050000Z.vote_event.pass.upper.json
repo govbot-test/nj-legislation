@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "222",
+  "bill": "585e60aa-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "S1082",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Turner, Shirley K.",
+      "voter_id": "~{\"name\": \"Turner, Shirley K.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Pennacchio, Joseph",
+      "voter_id": "~{\"name\": \"Pennacchio, Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cruz-Perez, Nilsa I.",
+      "voter_id": "~{\"name\": \"Cruz-Perez, Nilsa I.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Corrado, Kristin M.",
+      "voter_id": "~{\"name\": \"Corrado, Kristin M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKeon, John F.",
+      "voter_id": "~{\"name\": \"McKeon, John F.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "S1082_upper_Reported_favorably_out_of_committee_SEG"
+}

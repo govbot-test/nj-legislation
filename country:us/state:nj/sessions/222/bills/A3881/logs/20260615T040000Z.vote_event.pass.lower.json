@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported out of Assembly committee with amendments",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-15T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584e413e-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A3881",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Schnall, Alexander",
+      "voter_id": "~{\"name\": \"Schnall, Alexander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Venezia, Michael",
+      "voter_id": "~{\"name\": \"Venezia, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brennan, Katie",
+      "voter_id": "~{\"name\": \"Brennan, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reynolds-Jackson, Verlina",
+      "voter_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simonsen, Erik K.",
+      "voter_id": "~{\"name\": \"Simonsen, Erik K.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Fantasia, Dawn",
+      "voter_id": "~{\"name\": \"Fantasia, Dawn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bagolie, Rosaura",
+      "voter_id": "~{\"name\": \"Bagolie, Rosaura\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A3881_lower_Reported_out_of_Assembly_committee_with_amendments_AED"
+}

@@ -1,0 +1,132 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-23T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583951c0-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A1207",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Carter, Linda S.",
+      "voter_id": "~{\"name\": \"Carter, Linda S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClellan, Antwan L.",
+      "voter_id": "~{\"name\": \"McClellan, Antwan L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bailey, David",
+      "voter_id": "~{\"name\": \"Bailey, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schaer, Gary S.",
+      "voter_id": "~{\"name\": \"Schaer, Gary S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Webber, Jay",
+      "voter_id": "~{\"name\": \"Webber, Jay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pintor Marin, Eliana",
+      "voter_id": "~{\"name\": \"Pintor Marin, Eliana\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kane, Melinda",
+      "voter_id": "~{\"name\": \"Kane, Melinda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Singh, Balvir",
+      "voter_id": "~{\"name\": \"Singh, Balvir\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart, Kenyatta",
+      "voter_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Auth, Robert",
+      "voter_id": "~{\"name\": \"Auth, Robert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reynolds-Jackson, Verlina",
+      "voter_id": "~{\"name\": \"Reynolds-Jackson, Verlina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Swain, Lisa",
+      "voter_id": "~{\"name\": \"Swain, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Myhre, Gregory E.",
+      "voter_id": "~{\"name\": \"Myhre, Gregory E.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCoy, Tennille R.",
+      "voter_id": "~{\"name\": \"McCoy, Tennille R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morales, Carmen Theresa",
+      "voter_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A1207_lower_Reported_favorably_out_of_committee_AAP"
+}

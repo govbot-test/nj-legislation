@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-01T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "584167ac-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A2240",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Auth, Robert",
+      "voter_id": "~{\"name\": \"Auth, Robert\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Flynn, Victoria A.",
+      "voter_id": "~{\"name\": \"Flynn, Victoria A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Park, Ellen J.",
+      "voter_id": "~{\"name\": \"Park, Ellen J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterpaul, Luanne M.",
+      "voter_id": "~{\"name\": \"Peterpaul, Luanne M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wainstein, Larry",
+      "voter_id": "~{\"name\": \"Wainstein, Larry\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Stewart, Kenyatta",
+      "voter_id": "~{\"name\": \"Stewart, Kenyatta\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A2240_lower_Reported_favorably_out_of_committee_AJU"
+}

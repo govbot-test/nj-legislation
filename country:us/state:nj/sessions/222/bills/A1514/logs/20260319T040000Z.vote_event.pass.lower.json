@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported favorably out of committee",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-19T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "222",
+  "bill": "583bc180-7dc8-11f1-892c-d667d338ec28",
+  "bill_action": null,
+  "bill_identifier": "A1514",
+  "votes": [
+    {
+      "option": "other",
+      "voter_name": "Sampson, William B.",
+      "voter_id": "~{\"name\": \"Sampson, William B.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morales, Carmen Theresa",
+      "voter_id": "~{\"name\": \"Morales, Carmen Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Onyema, Chigozie U.",
+      "voter_id": "~{\"name\": \"Onyema, Chigozie U.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brennan, Katie",
+      "voter_id": "~{\"name\": \"Brennan, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quijano, Annette",
+      "voter_id": "~{\"name\": \"Quijano, Annette\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Kean, Sean T.",
+      "voter_id": "~{\"name\": \"Kean, Sean T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clifton, Robert D.",
+      "voter_id": "~{\"name\": \"Clifton, Robert D.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    },
+    {
+      "url": "https://www.njleg.state.nj.us/downloads.asp",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "A1514_lower_Reported_favorably_out_of_committee_ACO"
+}
