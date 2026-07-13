@@ -1,0 +1,16 @@
+Title: A3257
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced Version
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+A3257 ASSEMBLY, No. 3257 STATE OF NEW JERSEY 222nd LEGISLATURE PRE-FILED FOR INTRODUCTION IN THE 2026 SESSION Sponsored by: Assemblyman DAN HUTCHISON District 4 (Atlantic, Camden and Gloucester) Assemblyman  CODY D. MILLER District 4 (Atlantic, Camden and Gloucester) Assemblywoman  HEATHER SIMMONS District 3 (Cumberland, Gloucester and Salem) Co-Sponsored by: Assemblywoman Donlon SYNOPSIS Prohibits health insurance carriers from making certain changes to contract with network providers during term of contract. CURRENT VERSION OF TEXT Introduced Pending Technical Review by Legislative Counsel. An Act concerning revisions to health benefit coverage and supplementing P.L.1997, c.192 (C.26:2S-1 et seq.). Be It Enacted by the Senate and General Assembly of the State of New Jersey: 1.    A carrier shall not make a change to a contract between the carrier and its network providers that would reduce the reimbursement to a provider during the term of the contract. 2.    This act shall take effect on the first day of the third month next and shall be applicable to contracts entered into or renewed on or after the effective date. STATEMENT This bill prohibits a health insurance carrier from making any changes to a contract that the carrier has with its network providers that would reduce the reimbursement to a provider during the term of the contract.
+
+
+================================================================================
+
+Raw Text:
+A3257 ASSEMBLY, No. 3257 STATE OF NEW JERSEY 222nd LEGISLATURE PRE-FILED FOR INTRODUCTION IN THE 2026 SESSION Sponsored by: Assemblyman DAN HUTCHISON District 4 (Atlantic, Camden and Gloucester) Assemblyman  CODY D. MILLER District 4 (Atlantic, Camden and Gloucester) Assemblywoman  HEATHER SIMMONS District 3 (Cumberland, Gloucester and Salem) Co-Sponsored by: Assemblywoman Donlon SYNOPSIS Prohibits health insurance carriers from making certain changes to contract with network providers during term of contract. CURRENT VERSION OF TEXT Introduced Pending Technical Review by Legislative Counsel. An Act concerning revisions to health benefit coverage and supplementing P.L.1997, c.192 (C.26:2S-1 et seq.). Be It Enacted by the Senate and General Assembly of the State of New Jersey: 1.    A carrier shall not make a change to a contract between the carrier and its network providers that would reduce the reimbursement to a provider during the term of the contract. 2.    This act shall take effect on the first day of the third month next and shall be applicable to contracts entered into or renewed on or after the effective date. STATEMENT This bill prohibits a health insurance carrier from making any changes to a contract that the carrier has with its network providers that would reduce the reimbursement to a provider during the term of the contract.
