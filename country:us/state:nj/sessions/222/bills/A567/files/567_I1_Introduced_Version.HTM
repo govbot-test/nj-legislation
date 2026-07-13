@@ -1,0 +1,362 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>A567</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Albertus Extra Bold";
+	panose-1:2 14 8 2 4 3 4 2 2 4;}
+@font-face
+	{font-family:Marlett;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 6 4 5 2 3 4;}
+@font-face
+	{font-family:Albertus;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	font-size:9.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BillHead
+	{mso-style-name:BillHead;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillHeading2
+	{mso-style-name:BillHeading2;
+	font-family:"Times New Roman",serif;
+	font-variant:small-caps;
+	font-weight:bold;}
+span.BillLanguage
+	{mso-style-name:BillLanguage;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.HangingAnAct, li.HangingAnAct, div.HangingAnAct
+	{mso-style-name:HangingAnAct;
+	mso-style-link:"HangingAnAct Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.2in;
+	text-align:justify;
+	text-indent:-.2in;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+span.HangingAnActChar
+	{mso-style-name:"HangingAnAct Char";
+	mso-style-link:HangingAnAct;
+	letter-spacing:.2pt;}
+p.bpuBill, li.bpuBill, div.bpuBill
+	{mso-style-name:bpuBill;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:26.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuHeadSpon, li.bpuHeadSpon, div.bpuHeadSpon
+	{mso-style-name:bpuHeadSpon;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.bpuHeadSponChar
+	{mso-style-name:bpuHeadSponChar;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuIntro, li.bpuIntro, div.bpuIntro
+	{mso-style-name:bpuIntro;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuLegislature, li.bpuLegislature, div.bpuLegislature
+	{mso-style-name:bpuLegislature;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuNormText, li.bpuNormText, div.bpuNormText
+	{mso-style-name:bpuNormText;
+	margin:0in;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.bpuSponsor, li.bpuSponsor, div.bpuSponsor
+	{mso-style-name:bpuSponsor;
+	margin:0in;
+	text-align:justify;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.bpuState, li.bpuState, div.bpuState
+	{mso-style-name:bpuState;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:32.0pt;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+p.bpuWpGraphic, li.bpuWpGraphic, div.bpuWpGraphic
+	{mso-style-name:bpuWpGraphic;
+	margin:0in;
+	text-align:center;
+	line-height:120%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	letter-spacing:.2pt;}
+p.sponUdate, li.sponUdate, div.sponUdate
+	{mso-style-name:sponUdate;
+	margin:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 14.0in;
+	margin:1.5in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 14.0in;
+	margin:1.5in 113.75pt 1.0in 113.75pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 14.0in;
+	margin:1.0in 1.75in 1.2in 2.0in;}
+div.WordSection3
+	{page:WordSection3;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=bpuBill><a name=bpuFrontPg></a>ASSEMBLY, No. 567 </p>
+
+<p class=bpuWpGraphic></p>
+
+<p class=bpuState>STATE OF NEW JERSEY</p>
+
+<p class=bpuLegislature>222nd LEGISLATURE</p>
+
+<p class=bpuWpGraphic>  </p>
+
+<p class=bpuIntro>PRE-FILED FOR INTRODUCTION IN THE 2026 SESSION</p>
+
+<p class=bpuIntro>&nbsp;</p>
+
+</div>
+
+<span style='font-size:12.0pt;line-height:120%;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection2>
+
+<p class=bpuIntro>&nbsp;</p>
+
+<p class=bpuSponsor>Sponsored by:</p>
+
+<p class=bpuSponsor>Assemblyman ROBERT AUTH</p>
+
+<p class=bpuSponsor>District 39 (Bergen)</p>
+
+<p class=bpuSponsor>Assemblyman GREGORY E. MYHRE</p>
+
+<p class=bpuSponsor>District 9 (Ocean)</p>
+
+<p class=bpuSponsor>Assemblyman  GERRY SCHARFENBERGER</p>
+
+<p class=bpuSponsor>District 13 (Monmouth)</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>Co-Sponsored by:</p>
+
+<p class=bpuSponsor>Assemblymen S.Kean, Inganamort, Assemblywoman Fantasia and
+Assemblyman Peterson</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>&nbsp;</p>
+
+<p class=bpuSponsor>SYNOPSIS</p>
+
+<p class=bpuNormText>     Establishes &quot;Veteran Obituary Fund.&quot;</p>
+
+<p class=bpuNormText>&nbsp;</p>
+
+<p class=bpuSponsor>CURRENT VERSION OF TEXT </p>
+
+<p class=bpuNormText>     Introduced Pending Technical Review by Legislative
+Counsel.</p>
+
+<p class=bpuNormText>  </p>
+
+</div>
+
+<span style='font-size:12.0pt;line-height:120%;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection3>
+
+<p class=HangingAnAct style='line-height:150%'><span class=BillHead>An Act</span><span
+class=HangingAnActChar> establishing a fund for veteran obituaries and
+supplementing Title 38A of the New Jersey Statutes.</span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>     <span class=BillHeading2>Be It
+Enacted </span><span class=BillLanguage>by the Senate and General Assembly of
+the State of New Jersey:</span></p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>     1.    a.  There is established
+in the Department of the Treasury a dedicated, non-lapsing fund to be known as
+the Veteran Obituary Fund.  The fund shall be credited with any money for
+veteran obituaries received by the New Jersey Department of Military and Veterans
+Affairs through fundraising efforts, such as donations or grants, or other
+sources, such as State appropriations.  All interest earned on monies in the
+fund shall be credited to the fund.  Investment of such monies shall be
+consistent with policies of the Division of Investment.  The monies in the fund
+shall be administered by the State Treasurer, to be held in the fund until
+appropriated by law.  Not later than 180 days after the effective date of this
+act, P.L.    , c.    (C.        ) (pending before the Legislature as this
+bill), and periodically thereafter, the State Treasurer shall certify to the
+Legislature the total amount of monies in the fund.</p>
+
+<p class=MsoNormal style='line-height:150%'>     b.  The Adjutant General of
+the Department of Military and Veterans Affairs and the Deputy Commissioner of
+Veterans Affairs may solicit and accept donations or grants of money or
+property from any source for the purposes of the Veteran Obituary Fund and
+may distribute appropriations made by law for that purpose.  Any donations or
+grants received shall be credited to the Veteran Obituary Fund established
+pursuant to this section.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>     2.  a.  A taxpayer shall be
+allowed to deduct from gross income the amount of money or the fair market
+value of property donated to the Veteran Obituary Fund established pursuant
+to section 1 of P.L.   , c.   (C.   ) (pending before the Legislature as this
+bill), not to exceed $50,000 for the taxable year in which the donation
+occurs.  When the fair market value of property offered in donation to the fund
+exceeds $500 or a taxpayer intends to claim a deduction in an amount greater
+than $500, a taxpayer shall attach to the return and furnish to the Department
+of Military and Veterans Affairs, or its representative, an independent
+appraisal of the fair market value of the property.</p>
+
+<p class=MsoNormal style='line-height:150%'>     b.  The deduction of the fair
+market value of the donation of property shall not reduce the taxable income of
+the taxpayer below zero.</p>
+
+<p class=MsoNormal style='line-height:150%'>     c.  In the event that the
+Adjutant General of the Department of Military and Veterans Affairs, the Deputy
+Commissioner of Veterans Affairs, or their representatives, accept donated
+property on behalf of the fund, the department shall provide the taxpayer
+written acknowledgement that includes, at a minimum, the name of the taxpayer
+and, if the value of the property is greater than $500, the fair market value
+of the property based on an independent appraisal provided by the taxpayer.  </p>
+
+<p class=MsoNormal style='line-height:150%'>     d.  For the purpose of this
+act:</p>
+
+<p class=MsoNormal style='line-height:150%'>     Taxpayer means a person or
+entity required to pay tax to the State pursuant to the Corporation Business
+Tax Act, P.L.1945, c.162 (C.54:10A-1 et seq.) or the New Jersey Gross Income
+Tax Act, P.L.1976, c.47 (C.54A:1-1 et seq.).</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>     3. This act shall take effect
+immediately.</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'>STATEMENT</p>
+
+<p class=MsoNormal style='line-height:150%'>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'>     This bill establishes a
+dedicated, non-lapsing fund in the Department of the Treasury to be known as
+the Veteran Obituary Fund.  </p>
+
+<p class=MsoNormal style='line-height:150%'>     Under the bill, the Veteran
+Obituary Fund will be credited with any money received by the New Jersey
+Department of Military and Veterans Affairs to pay for the cost of veteran
+obituaries.  The bill also authorizes the Adjutant General and the Deputy Commissioner
+of the Department of Military and Veterans Affairs to solicit and accept
+donations or grants of money or property from any source for the purposes of
+the fund and to distribute appropriations made by law for these purposes. 
+Under the bill, taxpayers are permitted to deduct the amount of money or
+property donated to the fund from their gross income, not to exceed $50,000 for
+the taxable year in which the donation occurs.  The bill requires taxpayers to
+obtain an independent appraisal of the fair market value of property offered in
+donation to the fund when that value exceeds $500 or a taxpayer intends to
+claim a deduction in an amount greater than $500.  The taxpayer must furnish
+the appraisal to the department and file the appraisal with their return. </p>
+
+<p class=MsoNormal style='line-height:150%'>     The bill also requires the
+department to provide written acknowledgement of donations of property.  The
+acknowledgement must include the name of the taxpayer, as well as attestations
+of the fair market value of the property in certain instances.</p>
+
+<p class=MsoNormal style='line-height:150%'>     On average, obituaries cost
+several hundred dollars.  New Jersey veterans should not forgo being
+memorialized or honored upon their passing due to this expense.</p>
+
+</div>
+
+</body>
+
+</html>
